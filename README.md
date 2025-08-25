@@ -2,27 +2,6 @@
 <h3 align="center">A passionate Web developer from Bangladesh.</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
-
-- 🔭 I’m currently working on [##](#)
-
-- 🌱 I’m currently learning **##**
-
-- 👯 I’m looking to collaborate on [##](#)
-
-- 🤝 I’m looking for help with [##](#)
-
-- 👨‍💻 All of my projects are available at [##](##)
-
-- 📝 I regularly write articles on [##](##)
-
-- 💬 Ask me about **##**
-
-- 📫 How to reach me **##**
-
-- 📄 Know about my experiences [##](##)
-
-- ⚡ Fun fact **##**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="#" height="30" width="40" /></a>
