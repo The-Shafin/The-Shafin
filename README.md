@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shafin</h1>
-<h3 align="center">A passionate Web developer from Bangladesh.</h3>
+<h3 align="center"># 🚀 Currently Learning Python 🐍</h3>
 <p align="center"><img align="center" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"></p>
 
 <h3 align="left">Connect with me:</h3>
